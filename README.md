@@ -24,7 +24,7 @@ I got help from my tutor and TA's to help complete this as well as some students
 I would run the application each time I would update the code to make sure it was still functioning.
 
 ## Live Link
-https://note-taker007474.herokuapp.com/notes
+[link](https://note-taker007474.herokuapp.com/notes)
 
 ## Questions
  If you have any questions feel free to contact me [via email](mailto:garcia.valeria001@gmail.com). or [on GitHub](https://github.com/vhivestate).
